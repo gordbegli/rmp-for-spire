@@ -4,7 +4,7 @@ Clicking this chrome extension appends rate my professor scores to professor nam
 
 ## Demo
 
-_Click the image below for a demo of the app._
+_Click the image below for to see a demo of the app._  
 [![A demo of the app](https://img.youtube.com/vi/mkofrulGnyc/0.jpg)](https://www.youtube.com/watch?v=mkofrulGnyc)
 
 ## Installation (manual)
