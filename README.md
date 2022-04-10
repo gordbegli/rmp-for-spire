@@ -1,13 +1,8 @@
-# Moodle Auto Login
+# RMP for New Spire
 
-A simple Chrome extension that clicks the login button when you load Moonami.
+Clicking this chrome extension appends rate my professor scores to professor names in New Spire.
 
 # How to add extension to Chrome
-
-## Chrome Webstore
-Moodle Auto Login is now available through the Chrome Web Store!
-
-https://chrome.google.com/webstore/detail/moodle-auto-login/nfpmdpogbdlfbniimbdkokpcmmleemia
 
 ## Manual Installation
 _Click the image below for a 1 minute video that shows the installation process._
