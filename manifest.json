@@ -4,6 +4,11 @@
     "manifest_version": 3,
     "version": "0.1",
     "description": "Adds RMP scores to New Spire",
+    "icons": { 
+      "16": "icon16.png",
+      "48": "icon48.png",
+     "128": "icon128.png" 
+    },
     "permissions": [
       "activeTab",
       "scripting"
