@@ -2,6 +2,11 @@
 
 Clicking this chrome extension appends rate my professor scores to professor names in New Spire.
 
+# Demo
+
+_Click the image below for to see a demo of the app._
+[![A demo of the app](https://img.youtube.com/vi/mkofrulGnyc/0.jpg)](https://www.youtube.com/watch?v=mkofrulGnyc)
+
 # How to add extension to Chrome
 
 ## Manual Installation
