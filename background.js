@@ -6,7 +6,6 @@ function reddenPage() {
   fetch(url).then(res => res.json()).then(
     function(container){
       let data = container["data"];
-      alert(data);
         //iterate through all links
         for(let i = 0; i < links.length; i++) {
           let currentLink_text = links[i].innerHTML.toString();
@@ -29,17 +28,13 @@ function reddenPage() {
               }
             }
           }
-          
           let profRating  = getProfRating();
-
-
           links[i].innerHTML += ` <span style="color:red">${profRating}</span>`;
         }
 
     }
   );
 }
-
 
   
 chrome.action.onClicked.addListener((tab) => {
