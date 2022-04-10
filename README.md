@@ -1,6 +1,6 @@
-# RMP for New Spire
+# RMP for Spire
 
-This chrome extension appends rate my professor scores to professor names in New Spire.  
+This chrome extension appends rate my professor scores to professor names in **New** Spire.  
 Just hit the icon once your on the search page and the scores will appear!
 
 ## Demo
