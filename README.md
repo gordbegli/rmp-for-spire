@@ -5,7 +5,7 @@ Clicking this chrome extension appends rate my professor scores to professor nam
 # How to add extension to Chrome
 
 ## Manual Installation
-_Click the image below for a 1 minute video that shows the installation process._
+_Click the image below for a 1 minute video that shows the manual installation process._
 [![A youtube video with installation instructions](https://img.youtube.com/vi/TmPhPxo_RtY/0.jpg)](https://www.youtube.com/watch?v=TmPhPxo_RtY)
 
 1. Download the repo as a zip file by clicking the green code button, then "Download Zip".
