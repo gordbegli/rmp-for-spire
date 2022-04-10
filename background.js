@@ -1,7 +1,7 @@
 function reddenPage() {
   //gets all the professor names
   let links = document.querySelectorAll('[href*="mailto:"]');
-  let url = 'http://localhost:3000/rmp-data/rmp-data.json';
+  let url = 'https://umass-rmp-ngasixjue-gabrielgordbegli.vercel.app/rmp-data/rmp-data.json';
 
   fetch(url).then(res => res.json()).then(
     function(container){
@@ -31,11 +31,9 @@ function reddenPage() {
           let profRating  = getProfRating();
 
           //if the rating is not found change the variable to that
-          if (variable === undefined || variable === null) {
+          if (profRating === undefined) {
             profRating = "No Rating"
           }
-       
-          
 
           links[i].innerHTML += ` <span style="color:red">${profRating}</span>`;
         }
