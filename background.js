@@ -29,6 +29,14 @@ function reddenPage() {
             }
           }
           let profRating  = getProfRating();
+
+          //if the rating is not found change the variable to that
+          if (variable === undefined || variable === null) {
+            profRating = "No Rating"
+          }
+       
+          
+
           links[i].innerHTML += ` <span style="color:red">${profRating}</span>`;
         }
 
