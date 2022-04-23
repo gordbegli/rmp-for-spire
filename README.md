@@ -11,7 +11,7 @@ _Click the image below for to see a demo of the app._
 ## Installation
 
 ### Chrome Web Store
-The extension is now available in the Chrome Web Store!
+The extension is now available in the Chrome Web Store!  
 https://chrome.google.com/webstore/detail/rmp-for-spire/hcobmackmoenbachebflhldjccopcjpk?hl=en&authuser=0
 
 ### Manual Installation
